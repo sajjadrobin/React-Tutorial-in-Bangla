@@ -1,0 +1,23 @@
+.container {
+	border: 1px solid green;
+	margin: 0 auto;
+	background-color: cyan;
+}
+
+.newsContainer {
+	font-size: 20px;
+	color: red;
+	border-radius: 5px;
+	border: 1px inset;
+}
+
+button {
+	padding: 15px;
+	font-size: 24px;	
+}
+.edit {
+	background-color: green;
+}
+.delete {
+	background-color: red;
+}
