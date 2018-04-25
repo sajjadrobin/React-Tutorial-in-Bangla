@@ -12,5 +12,5 @@ https://www.youtube.com/watch?v=U5cc0NQBGC0
 React tutorial in Bangla - Lecture 4 - React Component
 https://www.youtube.com/watch?v=PAEi5r-00sM
 
-React tutorial in Bangla - Lecture 5 - React Component
+React tutorial in Bangla - Lecture 5 - React Event Handling
 https://youtu.be/381n-FPN_Zc
