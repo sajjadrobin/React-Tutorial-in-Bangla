@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=PAEi5r-00sM
 
 React tutorial in Bangla - Lecture 5 - React Event Handling
 https://youtu.be/381n-FPN_Zc
+
+React tutorial in Bangla - Lecture 6 - React State
+https://www.youtube.com/watch?v=8QW7q3vYWhs
