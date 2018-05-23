@@ -17,3 +17,6 @@ https://youtu.be/381n-FPN_Zc
 
 React tutorial in Bangla - Lecture 6 - React State
 https://www.youtube.com/watch?v=8QW7q3vYWhs
+
+React tutorial in Bangla - Lecture 7 - React Props vs State
+https://www.youtube.com/watch?v=4mYIWLvkjGg
