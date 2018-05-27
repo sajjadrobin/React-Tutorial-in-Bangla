@@ -10,7 +10,16 @@
   </head>
   <body>
     <div id="root"></div>    
-    <script type="text/babel">      
+    <script type="text/babel">
+
+      function Title(props) {
+        return(
+          <React.Fragment>
+            <h1>{props.title}</h1>
+            <p>Edited {props.count}</p>
+          </React.Fragment>
+        )
+      }
       
       class HotNews extends React.Component {
         constructor(props) {
@@ -19,11 +28,9 @@
           this.state = {
             totalEditCount: 0
           };
-
-          this.inputText = React.createRef();
         }
         edit() {
-          console.log(this.inputText.current);
+          alert("edit button clicked");
           this.setState({
             totalEditCount: this.state.totalEditCount + 1
           });
@@ -39,13 +46,15 @@
 
           return (
             <div className="newsContainer">              
-              <h1 ref={this.inputText}>{props.title}</h1>
+              <Title title={props.title} count={totalEditCount} />
               <p>{props.children}</p>
               <div className="action">
                 <button className="edit" 
                 onClick={() => this.edit()}>Edit</button>
                 <button className="delete" onClick={this.delete}>Delete</button>
-              </div>                          
+              </div>
+              {!!totalEditCount && (<p>Total edit clicked {totalEditCount}</p>)}
+              
             </div>
           )
         }
