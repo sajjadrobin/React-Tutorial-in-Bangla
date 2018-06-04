@@ -28,3 +28,11 @@ React tutorial in Bangla - Lecture 9 - Publish React Website
 https://www.youtube.com/watch?v=EB1n4Pwf8ek
 
 
+React tutorial in Bangla - Lecture 10 - React Ref
+https://www.youtube.com/watch?v=T7ajtiUqpzM
+
+React tutorial in Bangla - Lecture 11 - Props with State
+https://www.youtube.com/watch?v=a0UuvXE4Jg4
+
+React tutorial in Bangla - Lecture 12 - ES6 in React
+https://www.youtube.com/watch?v=btMC1YM-tEM
